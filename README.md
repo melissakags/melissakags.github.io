@@ -10,3 +10,5 @@ Mechanical Engineering Projects.
 Animation Projects.
 <BR><BR>
 Things I've Built.
+<BR><BR>
+Things I've Said.
