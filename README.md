@@ -1,11 +1,10 @@
 # Melissa Kags Portfolio
 
-<img alt="melk" src="https://avatars.githubusercontent.com/u/5769625?v=4" width="260" height="260" width="260" class="avatar avatar-user width-full border color-bg-default">
+<img alt="melk silly" src="https://github.com/melissakags/melissakags.github.io/blob/main/ProfileSilly.png?raw=true" >
 
-Hi. I am Melissa Kags, a mechanical 
-<BR>engineering student Concordia 
-<BR>University. I like solving problems, 
-<BR>making animations and building 
+Hi. I am Melissa Kags, a mechanical engineering 
+<BR>student Concordia at University. I like solving 
+<BR> problems, making animations and building 
 <BR>things. This is my portfolio.
 <BR><BR><BR>
 Mechanical Engineering Projects.
@@ -15,4 +14,5 @@ Animation Projects.
 Things I've Built.
 <BR><BR>
 Things I've Said.
+
 
